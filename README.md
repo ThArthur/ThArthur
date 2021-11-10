@@ -5,7 +5,7 @@ Apaixonado por desenvolvimento Mobile 💻
 
 
 ## Status GitHub
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThArthur&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThArthur&count_private=true&show_icons=true&theme=radical)
 
 ## Tecnologias do dia a dia
 
