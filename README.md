@@ -1,6 +1,6 @@
 # Olá! Eu sou o Arthur 👋
 Seja bem vindo ao meu GitHub,<br/><br/>
-Estudante de Ciência da Computação - 7º período - UVV 📚<br/> <br/>
+Estudante de Ciência da Computação - 8º período - UVV 📚<br/> <br/>
 Apaixonado por desenvolvimento Mobile 💻 
 
 
