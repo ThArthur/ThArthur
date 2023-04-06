@@ -1,7 +1,7 @@
 # Olá! Eu sou o Arthur 👋
 Seja bem vindo ao meu GitHub,<br/><br/>
 Ciência da Computação - Formado - UVV 📚<br/> <br/>
-Apaixonado por desenvolvimento Frontend 💻 
+Desenvolvedor Frontend 💻 
 
 
 ## Status GitHub
