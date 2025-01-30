@@ -8,10 +8,10 @@ Welcome to my GitHub! I'm passionate about technology and always looking to impr
 🚀 **Enthusiastic about Web & Mobile Development** <br/><br/>  
 
 ## 🛠 Tech Stack  
-🔹 **Frontend:** Vue.js, Angular, React, Jetpack Compose <br/>  
-🔹 **Backend:** Spring Boot, ASP.NET Core <br/>  
+🔹 **Frontend:** Vue.js, React, Jetpack Compose <br/>  
+🔹 **Backend:** Spring Boot <br/>  
 🔹 **Databases:** MySQL, PostgreSQL <br/>  
-🔹 **Other:** Quasar Framework, Entity Framework, JPA <br/><br/>  
+🔹 **Other:** Quasar Framework <br/><br/>  
 
 ## 📌 What I'm Working On  
 ✅ Learning **Angular** and improving my **Spring Boot** skills <br/>  
