@@ -1,7 +1,22 @@
-# Olá! Eu sou o Arthur 👋
-Seja bem vindo ao meu GitHub,<br/><br/>
-Ciência da Computação - Formado - UVV 📚<br/> <br/>
-Desenvolvedor Frontend 💻 
+Hello! I'm Arthur 👋
+Welcome to my GitHub! I'm passionate about technology and always looking to improve my skills.
+
+🎓 Computer Science Graduate - UVV
+💻 Frontend Developer
+🚀 Enthusiastic about Web & Mobile Development
+
+🛠 Tech Stack
+Frontend: Vue.js, Angular, React, Jetpack Compose
+Backend: Spring Boot, ASP.NET Core
+Databases: MySQL, PostgreSQL
+Other: Quasar Framework, Entity Framework, JPA
+📌 About Me
+I love working on personal and open-source projects.
+I'm currently learning Angular and improving my Spring Boot skills.
+I'm passionate about UI/UX and building intuitive applications.
+Feel free to check out my repositories and connect with me! 🚀
+
+
 
 ## Tecnologias do dia a dia
 
