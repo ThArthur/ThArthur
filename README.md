@@ -14,7 +14,7 @@ Welcome to my GitHub! I'm passionate about technology and always looking to impr
 🔹 **Other:** Quasar Framework <br/><br/>  
 
 ## 📌 What I'm Working On  
-✅ Learning **Angular** and improving my **Spring Boot** skills <br/>  
+✅ Focused on learning **Jetpack Compose** and improving my **Spring Boot** skills <br/>  
 ✅ Building intuitive applications with a focus on **UI/UX** <br/>  
 ✅ Exploring new technologies and open-source contributions <br/><br/>  
 
