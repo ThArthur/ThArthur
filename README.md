@@ -16,7 +16,7 @@ Welcome to my GitHub! I'm passionate about technology and always looking to impr
 ## 📌 What I'm Working On  
 ✅ Focused on learning **Jetpack Compose** and improving my **Spring Boot** skills <br/>  
 ✅ Building intuitive applications with a focus on **UI/UX** <br/>  
-✅ Exploring new technologies and open-source contributions <br/><br/>  
+✅ Exploring new technologies <br/><br/>  
 
 Feel free to check out my repositories and connect with me! 🚀  
 
